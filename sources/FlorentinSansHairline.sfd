@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1698965926
-ModificationTime: 1724629952
+ModificationTime: 1724694740
 PfmFamily: 33
 TTFWeight: 1
 TTFWidth: 5
@@ -47,13 +47,14 @@ Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 2" { "'kern' Horizont
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' Mark Positioning in Latin lookup 0-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Marco Mahone" "Florentin Sans is a font inspired by two older unreleased fonts I've made, +ACIA-Biserka Sans+ACIA and the older (and messier) version of +ACIA-Cerk Sans.+ACIA This was also an attempt to see how well I was at making thin fonts. Tuns out, I did good." "https://fontforge.org/en-US/"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 432 27 9
+WinInfo: 0 27 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -3175,7 +3176,7 @@ SplineSet
 100.5 -44 m 1
  443.5 567.725585938 l 1
  448.5 564.733398438 l 1
- 108.5 -44 l 5
+ 108.5 -44 l 1
  100.5 -44 l 1
 EndSplineSet
 Substitution2: "'lnum' Lining Figures in Latin lookup 0-1" percent.lf
